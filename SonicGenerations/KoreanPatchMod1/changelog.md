@@ -1,3 +1,20 @@
 ## KOREAN PATCH MOD v1.4
-- just a little test for an update
-- 한글이 나오는지 테스트를 해봅시다
+- 2020-03-03
+
+## KOREAN PATCH MOD v1.3
+- 2020-01-05
+
+## KOREAN PATCH MOD v1.2
+- 2019-12-23
+
+## KOREAN PATCH MOD v1.1
+- 2019-08-25
+
+## KOREAN PATCH MOD v1.0
+- 2019-08-15
+
+## KOREAN PATCH MOD demo
+- 2019-08-08
+
+## KOREAN PATCH MOD HUD only
+- 2016-08-19
