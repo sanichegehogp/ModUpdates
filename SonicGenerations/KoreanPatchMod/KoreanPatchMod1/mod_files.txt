@@ -1,2 +1,0 @@
-add mod.ini
-add update_test.txt
