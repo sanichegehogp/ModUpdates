@@ -1,3 +1,7 @@
+## KOREAN PATCH MOD v1.2
+- 2020-03-04
+- Fixed 'try again' graphics
+
 ## KOREAN PATCH MOD v1.1
 - 2020-03-03
 - Added an update support.
