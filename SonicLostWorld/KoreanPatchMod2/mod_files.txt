@@ -1,1 +1,5 @@
 add mod.ini
+add disk/sonic2013_0/ui/ui_common_e.pac
+add disk/sonic2013_0/ui/ui_common_e.pac.00
+add disk/sonic2013_0/ui/ui_common_j.pac
+add disk/sonic2013_0/ui/ui_common_j.pac.00
