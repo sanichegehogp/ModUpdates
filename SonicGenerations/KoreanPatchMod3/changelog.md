@@ -1,3 +1,7 @@
+## KOREAN PATCH MOD v1.4.1
+- 2020-05-02
+- Changed some logos to the Korean ones.
+
 ## KOREAN PATCH MOD v1.4
 - 2020-03-03
 - Added an update support.
