@@ -1,1 +1,5 @@
 add mod.ini
+add disk/bb2/StaffRoll.ar.00
+add disk/bb2/Collection/008_sonic_2006.dds
+add disk/bb2/Collection/009_swa_JP.dds
+add disk/bb2/Collection/009_swa_US.dds
