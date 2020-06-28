@@ -1,3 +1,7 @@
+## KOREAN PATCH MOD v1.5
+- 2020-06-28
+- Updated images, scripts, etc.
+
 ## KOREAN PATCH MOD v1.4.1
 - 2020-05-02
 - Changed some logos to the Korean ones.
