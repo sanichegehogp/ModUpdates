@@ -1,3 +1,7 @@
+## KOREAN PATCH MOD v1.5.1
+- 2020-08-13
+- Updated images, scripts, etc.
+
 ## KOREAN PATCH MOD v1.5
 - 2020-06-28
 - Updated images, scripts, etc.
