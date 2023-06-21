@@ -1,2 +1,1 @@
-add 11.png
 add mod.ini
