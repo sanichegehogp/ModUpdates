@@ -1,40 +1,47 @@
-## KOREAN PATCH MOD v1.5.1
+## 한글패치 모드 v2.0.0
+- 2023-06-23
+- Hedge Mod Manager의 모드 설정 기능 지원.
+- 폰트 변경 및 재정렬. (변동의 용이성 확보)
+- 버튼 종류별 스톰프, 라이트대시 튜토리얼 영상 추가.
+- 고해상도 인터페이스 설정 지원. (JoeTE 제작)
+
+## 한글패치 모드 v1.5.1
 - 2020-08-13
-- Updated images, scripts, etc.
+- 일부 이미지, 스크립트 등의 업데이트.
 
-## KOREAN PATCH MOD v1.5
+## 한글패치 모드 v1.5
 - 2020-06-28
-- Updated images, scripts, etc.
+- 일부 이미지, 스크립트 등의 업데이트.
 
-## KOREAN PATCH MOD v1.4.1
+## 한글패치 모드 v1.4.1
 - 2020-05-02
-- Changed some logos to the Korean ones.
+- 일부 게임 로고를 정발판 로고로 교체.
 
-## KOREAN PATCH MOD v1.4
+## 한글패치 모드 v1.4
 - 2020-03-03
-- Added an update support.
+- 모드로더를 통한 업데이트 지원.
 
-## KOREAN PATCH MOD v1.3
+## 한글패치 모드 v1.3
 - 2020-01-05
-- Fixed some subtitles.
+- 일부 자막 수정.
 
-## KOREAN PATCH MOD v1.2
+## 한글패치 모드 v1.2
 - 2019-12-23
-- Fixed the incorrect subtitles' color. (red to yellow)
-- Fixed some subtitles.
+- 부정확한 자막 색상의 변경. (빨강색에서 노랑색)
+- 일부 자막 수정.
 
-## KOREAN PATCH MOD v1.1
+## 한글패치 모드 v1.1
 - 2019-08-25
-- Fixed a typo.
+- 오타 수정.
 
-## KOREAN PATCH MOD v1.0
+## 한글패치 모드 v1.0
 - 2019-08-15
-- Public release! and changed the old HUD to a new one.
+- 첫 공개! 오래된 HUD를 새 것으로 교체.
 
-## KOREAN PATCH MOD demo
+## 한글패치 모드 데모
 - 2019-08-08
-- Added Fonts, subtitle supports, etc.
+- 폰트 추가, 자막 지원 등.
 
-## KOREAN PATCH MOD HUD only
+## 한글패치 HUD 모드
 - 2016-08-19
-- It was the First release, but HUD only.
+- 최초의 배포본. HUD만 바뀌는 형태의 패치 모드.
