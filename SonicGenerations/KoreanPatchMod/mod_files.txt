@@ -1,1 +1,2 @@
+add 마코마코링.png
 add mod.ini
