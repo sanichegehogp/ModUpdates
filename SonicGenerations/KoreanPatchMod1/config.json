@@ -1,0 +1,90 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "모드 설정",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "버튼 종류",
+               "Description": [
+                  "버튼 인터페이스의 컨트롤러 종류를 변경합니다.",
+               ],
+               "Type": "ButtonEnum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "disk_xboxseries"
+            },
+			
+			{
+               "Name": "IncludeDir1",
+               "DisplayName": "인터페이스 해상도",
+               "Description": [
+                  "일부 인터페이스의 해상도를 변경합니다.",
+               ],
+               "Type": "ResEnum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "disk_hd"
+            },
+
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ButtonEnum": [
+
+         {
+            "DisplayName": "엑스박스",
+            "Value": "disk_xboxseries",
+            "Description": [
+               "엑스박스 컨트롤러의 버튼을 사용합니다.",
+            ]
+         },
+
+         {
+            "DisplayName": "플레이스테이션",
+            "Value": "disk_playstation",
+            "Description": [
+               "플레이스테이션 4 컨트롤러의 버튼을 사용합니다.",
+            ]
+         },
+		 
+		 {
+            "DisplayName": "스위치 프로",
+            "Value": "disk_switchpro",
+            "Description": [
+               "스위치 프로 컨트롤러의 버튼을 사용합니다.",
+            ]
+         },
+
+      ],
+	  
+	  "ResEnum": [
+
+         {
+            "DisplayName": "HD 표준 해상도(720p)",
+            "Value": "disk_hd",
+            "Description": [
+               "표준 해상도 텍스처를 사용합니다.",
+            ]
+         },
+
+         {
+            "DisplayName": "QHD 고해상도(1440p)",
+            "Value": "disk_qhd",
+            "Description": [
+               "고해상도 자체 제작 텍스처를 사용합니다. (원작자 JoeTE)",
+			   "",
+			   "인터페이스를 변경하는 스킨 모드와 충돌이 발생할 수 있습니다.",
+            ]
+         },
+
+      ],
+         
+   },
+   "IniFile": "mod.ini"
+}
