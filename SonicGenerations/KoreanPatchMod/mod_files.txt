@@ -1,1 +1,5 @@
+add disk_hd/disk/bb/Languages/English/SystemCommon.ar.00
+add disk_hd/disk/bb/Languages/Japanese/SystemCommon.ar.00
+add disk_qhd/disk/bb/Languages/English/SystemCommon.ar.00
+add disk_qhd/disk/bb/Languages/Japanese/SystemCommon.ar.00
 add mod.ini
