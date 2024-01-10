@@ -1,0 +1,88 @@
+{
+   "Groups": [
+      {
+         "Name": "Main",
+         "DisplayName": "모드 설정",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir0",
+               "DisplayName": "버튼 종류",
+               "Description": [
+                  "버튼 인터페이스의 컨트롤러 종류를 변경합니다.",
+               ],
+               "Type": "ButtonEnum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "disk_xboxseries"
+            },
+			
+			{
+               "Name": "IncludeDir1",
+               "DisplayName": "번역 스크립트",
+               "Description": [
+                  "게임 내 번역 스크립트 종류를 변경합니다. (영문/일문)",
+               ],
+               "Type": "ResEnum",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "disk_english"
+            },
+
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "ButtonEnum": [
+
+         {
+            "DisplayName": "엑스박스",
+            "Value": "disk_xboxseries",
+            "Description": [
+               "엑스박스 컨트롤러의 버튼을 사용합니다.",
+            ]
+         },
+
+         {
+            "DisplayName": "플레이스테이션",
+            "Value": "disk_playstation",
+            "Description": [
+               "플레이스테이션 4 컨트롤러의 버튼을 사용합니다.",
+            ]
+         },
+		 
+		 {
+            "DisplayName": "스위치 프로",
+            "Value": "disk_switchpro",
+            "Description": [
+               "스위치 프로 컨트롤러의 버튼을 사용합니다.",
+            ]
+         },
+
+      ],
+	  
+	  "ResEnum": [
+
+         {
+            "DisplayName": "영문 스크립트",
+            "Value": "disk_english",
+            "Description": [
+               "게임 내 대사가 영문 스크립트 기준 번역으로 변경됩니다.",
+            ]
+         },
+
+         {
+            "DisplayName": "일문 스크립트",
+            "Value": "disk_japanese",
+            "Description": [
+               "게임 내 대사가 일문 스크립트 기준 번역으로 변경됩니다.",
+            ]
+         },
+
+      ],
+         
+   },
+   "IniFile": "mod.ini"
+}
