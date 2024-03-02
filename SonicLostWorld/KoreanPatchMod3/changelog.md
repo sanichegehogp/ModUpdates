@@ -1,11 +1,6 @@
-## KOREAN PATCH MOD v1.2
-- 2020-03-04
-- Fixed 'try again' graphics
-
-## KOREAN PATCH MOD v1.1
-- 2020-03-03
-- Added an update support.
-
-## KOREAN PATCH MOD v1.0
-- 2020-01-22
-- Public release!
+## 한글패치 모드 v2.1.0
+- 2024-03-02
+- 번역팀 구성 후 신버전 첫 공개 배포.
+- 스팀 언어 설정을 통한 영문/일문 스크립트 분리.
+- HedgeModManager의 모드 설정 기능 지원.
+- Gamma Correction를 Dependencies로 연결. (Skyth 제작)
