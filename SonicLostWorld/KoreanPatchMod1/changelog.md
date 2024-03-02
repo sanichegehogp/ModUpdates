@@ -3,5 +3,5 @@
 - 번역팀 구성 후 신버전 첫 공개 배포.
 - 스팀 언어 설정을 통한 영문/일문 스크립트 분리.
 - HedgeModManager의 모드 설정 기능 지원.
-- Gamma Correction를 Dependencies로 연결. (Skyth 제작)
+- Gamma Correction을 Dependencies로 연결. (Skyth 제작)
 - 마지막 대사 출력되지 않는 버그 수정.
